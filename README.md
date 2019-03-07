@@ -1,5 +1,6 @@
-## Forcasting Weather Using Machine earning
+## Forcasting Weather Using Machine Learning
 Forcasting Weather Using Multinomial Logistic Regression, Decision Tree, Naïve Bayes Multinomial, and Support Vector Machine
+
 ---
 ### Data set
 Our dataset looks like below which we collected from [Bangladesh Meteoritical Department](http://www.bmd.gov.bd/)
