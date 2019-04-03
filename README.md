@@ -1,4 +1,4 @@
-## Forcasting Weather Using Machine Learning
+## Forecasting Weather Using Machine Learning
 Forcasting Weather Using Multinomial Logistic Regression, Decision Tree, Naïve Bayes Multinomial, and Support Vector Machine
 
 ---
