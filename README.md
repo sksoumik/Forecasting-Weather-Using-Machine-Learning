@@ -1,10 +1,10 @@
 ## Forecasting Weather Using Machine Learning
-Forcasting Weather Using Multinomial Logistic Regression, Decision Tree, Naïve Bayes Multinomial, and Support Vector Machine
+Forecasting Weather Using Multinomial Logistic Regression, Decision Tree, Naïve Bayes Multinomial, and Support Vector Machine
 
 ---
 ### Data set
 Our dataset looks like below which we collected from [Bangladesh Meteoritical Department](http://www.bmd.gov.bd/)
-![alt text](https://github.com/sksoumik/Forcasting-Weather-Using-Machine-Learning-/blob/master/dataset%20sample%20image.PNG)
+![alt text](https://github.com/sksoumik/Forecasting-Weather-Using-Machine-Learning/blob/master/dataset%20sample%20image.PNG)
 
 ###### We had last 30 years [1988-2017] of weather data.The training and test set is divided into two segments having 70% and 30% data split across the two categories.
 ---
